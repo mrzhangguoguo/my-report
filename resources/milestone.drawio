@@ -1,0 +1,64 @@
+<mxfile host="65bd71144e">
+    <diagram name="Milestone" id="milestone-1">
+        <mxGraphModel dx="1133" dy="1367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="文章内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0c3fc;strokeColor=#764ba2;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="60" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="图文内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0c3fc;strokeColor=#764ba2;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="60" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="视频内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0c3fc;strokeColor=#764ba2;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="60" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="直播内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0c3fc;strokeColor=#764ba2;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="60" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="完善内容矩阵" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0c3fc;strokeColor=#764ba2;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="60" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="网站SEO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0c3fc;strokeColor=#764ba2;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="700" y="60" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="广告推广" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0c3fc;strokeColor=#764ba2;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="830" y="60" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=elbowEdgeStyle;endArrow=block;html=1;strokeColor=#764ba2;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=elbowEdgeStyle;endArrow=block;html=1;strokeColor=#764ba2;" parent="1" source="3" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=elbowEdgeStyle;endArrow=block;html=1;strokeColor=#764ba2;" parent="1" source="4" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=elbowEdgeStyle;endArrow=block;html=1;strokeColor=#764ba2;" parent="1" source="5" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" style="edgeStyle=elbowEdgeStyle;endArrow=block;html=1;strokeColor=#764ba2;" parent="1" source="6" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=elbowEdgeStyle;endArrow=block;html=1;strokeColor=#764ba2;" parent="1" source="7" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="网站上线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a8edea;strokeColor=#667eea;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="245" y="270" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="SEO内容营销" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a8edea;strokeColor=#667eea;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="395" y="270" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Template内容营销" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a8edea;strokeColor=#667eea;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="565" y="270" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=elbowEdgeStyle;endArrow=block;html=1;strokeColor=#667eea;" parent="1" source="15" target="16" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=elbowEdgeStyle;endArrow=block;html=1;strokeColor=#667eea;" parent="1" source="16" target="17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
